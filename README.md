@@ -7,7 +7,7 @@ Projet utilisant la **science des données** pour analyser les tendances des dé
 - **NLP** (spaCy, NLTK)
 - **Visualisation** (Matplotlib, Seaborn)
 
-## 📌 Fonctionnalités
+## Fonctionnalités
 ✅ Extraction et prétraitement des données  
 ✅ Analyse des tendances dominantes  
 ✅ Visualisation interactive  
