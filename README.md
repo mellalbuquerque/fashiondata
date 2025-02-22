@@ -1,6 +1,6 @@
 # Analyse des tendances de la mode avec l'IA
 
-Projet utilisant la **science des données** pour analyser les tendances des défilés de mode. Il applique le **traitement du langage naturel (NLP)** et des techniques de **visualisation des données** pour identifier les styles émergents.
+Projet utilisant **l'intelligence artificielle** pour analyser les tendances des défilés de mode. Il applique le **traitement du langage naturel (NLP)** et des techniques de **visualisation des données** pour identifier les styles émergents.
 
 ## Technologies utilisées
 - **Python** (Pandas, NumPy, Scikit-learn)
