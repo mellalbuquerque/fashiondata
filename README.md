@@ -9,7 +9,7 @@ Projet utilisant **l'intelligence artificielle** pour analyser les tendances des
 
 ## Fonctionnalités
 ✅ Extraction et prétraitement des données  
-✅ Analyse des tendances dominantes  
+✅ Analyse des tendances dominantes   
 ✅ Visualisation interactive  
 
 ## 📄 Licence
