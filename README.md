@@ -1,16 +1,11 @@
-# Analyse des tendances de la mode avec l'IA
+# Fashion Data Hub
 
-Projet utilisant **l'intelligence artificielle** pour analyser les tendances des défilés de mode. Il applique le **traitement du langage naturel (NLP)** et des techniques de **visualisation des données** pour identifier les styles émergents.
+Un espace dédié aux projets de mode utilisant l'intelligence artificielle et l'analyse de données. Vous trouverez ici divers projets visant à explorer les tendances de la mode et à comprendre l'industrie à travers les données.
 
 ## Technologies utilisées
 - **Python** (Pandas, NumPy, Scikit-learn)
 - **NLP** (spaCy, NLTK)
 - **Visualisation** (Matplotlib, Seaborn)
-
-## Fonctionnalités
-✅ Extraction et prétraitement des données  
-✅ Analyse des tendances dominantes   
-✅ Visualisation interactive  
 
 ## 📄 Licence
 Ce projet est open-source sous licence **BSD 3-Clause**.  
